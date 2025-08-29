@@ -1,0 +1,14 @@
+{
+  "experiment": "bare",
+  "root": "./post_analysis_inputs/ocp_experiments/pH_10.54/bare",
+  "n_csv": 3,
+  "used_files": [
+    "bare alu1.1.csv",
+    "bare alu1.2.csv",
+    "bare alu1.csv"
+  ],
+  "overlay_plot": "ocp_plots/overlay.png",
+  "average_plot": "ocp_plots/average.png",
+  "average_csv": "ocp_plots/average.csv",
+  "errors": []
+}

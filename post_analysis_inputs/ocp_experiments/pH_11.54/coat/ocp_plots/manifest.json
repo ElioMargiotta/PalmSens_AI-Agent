@@ -1,0 +1,13 @@
+{
+  "experiment": "coat",
+  "root": "./post_analysis_inputs/ocp_experiments/pH_11.54/coat",
+  "n_csv": 2,
+  "used_files": [
+    "coat alu 1.1.csv",
+    "coat alu 1.csv"
+  ],
+  "overlay_plot": "ocp_plots/overlay.png",
+  "average_plot": "ocp_plots/average.png",
+  "average_csv": "ocp_plots/average.csv",
+  "errors": []
+}
